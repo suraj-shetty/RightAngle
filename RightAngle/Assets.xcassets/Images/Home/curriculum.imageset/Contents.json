@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "curriculum.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

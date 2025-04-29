@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  RightAngle
+
+  Created by Suraj Sukumar Shetty on 01/08/23.
+  
+*/
+
+//MARK: - Profile
+"profile_tab_posts"     = "Posts";
+"profile_tab_subjects"  = "Subjects";
+"profile_tab_shots"     = "Shots";
+"profile.follow"        = "Follow";

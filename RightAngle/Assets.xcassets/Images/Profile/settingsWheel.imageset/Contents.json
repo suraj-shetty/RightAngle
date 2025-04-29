@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "settingsWheel.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
